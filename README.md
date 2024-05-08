@@ -1,0 +1,1 @@
+I made different modules for each of the classes needed with new databases to store the library information. I then updated the main where all the user interactions happen to fit the uses with the new functions and database usage. Put together, this program then allows one to check out books, or added certain books and authors to the library database.
